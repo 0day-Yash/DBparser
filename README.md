@@ -1,4 +1,3 @@
-```markdown
 # Email Hash Parser and Search Tool
 
 This tool helps you parse through hundreds of text files filled with email hashes and search for a specific query across all of them.
