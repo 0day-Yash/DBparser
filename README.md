@@ -77,6 +77,7 @@ No matches found for 'example@example.com'.
 
 
 ### MADE BY YASH KULKARNI; a.k.a. PurpleRain
+```sh
 
 ########  ##     ## ########  ########  ##       ######## ########     ###    #### ##    ## 
 ##     ## ##     ## ##     ## ##     ## ##       ##       ##     ##   ## ##    ##  ###   ## 
